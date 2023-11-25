@@ -15,7 +15,7 @@
 
 A solução proposta implementa um serviço remoto usando RMI em Java. No caso,  uma Calculadora que fornece as quatros operações básicas.
 
-- No Package **common** contém  Interfaces, como CalcInterface, que definem os métodos  e a comunicação entre o Sercer o Client.
+- No Package **common** contém  Interfaces, como CalcInterface, que definem os métodos  e a comunicação entre o Server o Client.
 
 - No Package **server** contém a lógica e a implementação das interfaces em **common**. No Server.java cria as instâncias das implementações e as vinculam em um registro RMI .
 
