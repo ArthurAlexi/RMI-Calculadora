@@ -13,7 +13,7 @@
 <a id="descricao"></a>
 ## 📜 Descrição:
 
-A solução proposta implementa uma serviço remota usando RMI em Java. No caso,  uma Calculadora que fornece as quatros operações básicas.
+A solução proposta implementa um serviço remoto usando RMI em Java. No caso,  uma Calculadora que fornece as quatros operações básicas.
 
 - No Package **common** contém  Interfaces, como CalcInterface, que definem os métodos  e a comunicação entre o Sercer o Client.
 
