@@ -45,13 +45,13 @@ A solução proposta implementa um serviço remoto usando RMI em Java. No caso, 
 - 3º Inicialize o Server em um terminal separado:
 
  ```
-  java server/Server
+  java server.Server
 ```
 
 - 4º Inicialize o Client em um terminal separado:
 
  ```
-  java client/Client
+  java client.Client
 ```
 
 FIM
