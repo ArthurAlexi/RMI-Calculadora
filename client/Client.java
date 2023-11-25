@@ -15,10 +15,10 @@ public class Client {
             double b = 5;
 
             System.out.println("Soma: " + calc.add(a, b));
-            System.out.println("Subtração: " + calc.subtract(a, b));
-            System.out.println("Multiplicação: " + calc.multiply(a, b));
-            System.out.println("Divisão: " + calc.divide(a, b));
-            System.out.println("Erro de divisão por zero: " + calc.divide(a, 0));
+            System.out.println("Subtracaoo: " + calc.subtract(a, b));
+            System.out.println("Multiplicacao: " + calc.multiply(a, b));
+            System.out.println("Divisao: " + calc.divide(a, b));
+            System.out.println("Erro de divisao por zero: " + calc.divide(a, 0));
         } catch (Exception e) {
             e.printStackTrace();
         }
