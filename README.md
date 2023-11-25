@@ -33,7 +33,7 @@ A solução proposta implementa um serviço remoto usando RMI em Java. No caso, 
 - 1º No Root execute o comando abaixo no terminal:
 
  ```
-  javac common/*.java server/*.java clinet/*.java
+  javac common/*.java server/*.java client/*.java
 ```
 
 - 2º Inicialize rmiregistry:
